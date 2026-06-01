@@ -13,7 +13,7 @@ The chip classifies each pixel for skin tone using RGB thresholds, and accumulat
 
 ## How to test
 
-Use the MATLAB preprocessing script to convert a BMP image into a pixel stream CSV with zone metadata. Feed pixels via a microcontroller or the cocotb testbench. Pulse `frame_done` after the last pixel. Read `face_detected` on `uo_out[0]`.
+Use the MATLAB preprocessing script to convert a BMP image into a pixel stream CSV with zone metadata. Feed pixels via a microcontroller or the cocotb testbench. Pulse `frame_done` after the last pixel. Read `face_detected` on `uo_out[0]`. 
 
 ## Inputs
 
