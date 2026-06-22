@@ -4,7 +4,7 @@ project:
   discord:      ""
   description:  "Streaming pixel-based skin-tone and facial feature detector with eye, nose and mouth dark-pixel counting."
   language:     "Verilog"
-  clock_hz:     10000000
+  clock_hz:     50000000
   tiles:        "1x1"
   wokwi_id:     0
   top_module:   "tt_um_nikita_face_detect"
