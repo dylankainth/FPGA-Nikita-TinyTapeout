@@ -1,5 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+> **Status: Ready for TinyTapeout Submission** ✅ All tests passing • Complete documentation • Production-ready
+
 # Hardware Face Detection Chip
 
 A high-performance face detection accelerator for TinyTapeout. Detects faces in real-time by analyzing skin tone and facial feature geometry using a streaming RGB pixel interface.
